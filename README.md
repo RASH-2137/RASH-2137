@@ -28,6 +28,7 @@ I am a software engineer specializing in **high-performance backend architecture
   - 🥇 1st Place — Innovation Day Hackathon
   - 🏅 Top Performer — IIITM Gwalior Hackathon 2025
   - 📜 DeepLearning.AI / Andrew Ng Machine Learning Specialization
+  - 📜 Kaggle Certifcations in Machine Learning & Python development
 
 ---
 
