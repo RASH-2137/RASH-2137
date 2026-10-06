@@ -1,6 +1,5 @@
 <div align="center">
 
-# <img width="100" height="100" alt="WhatsApp Image 2026-09-04 at 16 21 39" src="https://github.com/user-attachments/assets/c89ced7e-cda5-4634-877d-a6784e708bbc" />
  # Rahul Sharma
 ### Backend Systems & Applied AI/ML Engineer
 **Technical Operations Associate at Exly · B.Tech CSE (Class of 2027)**
